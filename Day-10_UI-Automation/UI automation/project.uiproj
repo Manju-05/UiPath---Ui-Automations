@@ -1,0 +1,6 @@
+{
+  "Name": "UI automation",
+  "ProjectType": "Process",
+  "Description": "UI automation  - weather automation",
+  "MainFile": "Main.xaml"
+}
